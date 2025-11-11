@@ -20,6 +20,7 @@
     "@supabase/supabase-js": "^2.80.0",
     "ai": "^5.0.89",
     "dotenv": "^16.4.5",
+    "global-agent": "^3.0.0",
     "mammoth": "^1.11.0",
     "next": "16.0.1",
     "react": "19.2.0",
